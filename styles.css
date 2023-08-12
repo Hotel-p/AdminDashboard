@@ -50,6 +50,11 @@ hr{
     font-size: 24px;
 }
 
+.sidebar-item:hover{
+    border-bottom: 1px solid white;
+    outline: white;
+}
+
 .sidebar-heading{
     font-size: 36px;
     display: flex;
